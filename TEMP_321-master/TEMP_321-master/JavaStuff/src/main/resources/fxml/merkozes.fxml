@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="pane" prefHeight="384.0" prefWidth="541.0" stylesheets="@styles/styles.css" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hu.unideb.inf.merkozesController">
+   <children>
+      <Label id="label-small" alignment="CENTER" layoutX="84.0" layoutY="85.0" prefHeight="25.0" prefWidth="118.0" text="Hazai csapat">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label id="label-small" alignment="CENTER" layoutX="394.0" layoutY="85.0" prefHeight="25.0" prefWidth="118.0" text="Vendég csapat">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label id="label-small" fx:id="hCsapat" alignment="CENTER" layoutX="29.0" layoutY="138.0" prefHeight="36.0" prefWidth="226.0" text="sz">
+         <font>
+            <Font name="Times New Roman Bold" size="18.0" />
+         </font></Label>
+      <Label id="label-small" fx:id="vCsapat" alignment="CENTER" layoutX="340.0" layoutY="138.0" prefHeight="36.0" prefWidth="226.0" text="sz">
+         <font>
+            <Font name="Times New Roman Bold" size="18.0" />
+         </font></Label>
+      <Label id="label-small" fx:id="hOdds" alignment="CENTER" layoutX="102.0" layoutY="209.0" prefHeight="36.0" prefWidth="81.0" stylesheets="@styles/styles.css" text="ho">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <Label id="label-small" fx:id="vOdds" alignment="CENTER" layoutX="409.0" layoutY="209.0" prefHeight="36.0" prefWidth="89.0" text="vo">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <Button id="menu-button" layoutX="410.0" layoutY="289.0" mnemonicParsing="false" onAction="#fogadas" text="Fogadás" />
+      <Button id="menu-button" fx:id="mainPage" layoutX="100.0" layoutY="289.0" mnemonicParsing="false" onAction="#backToMainPage" text="Bezárás" />
+      <Label id="label-small" fx:id="ertesito" layoutX="115.0" layoutY="335.0" prefHeight="20.0" prefWidth="352.0" textAlignment="CENTER" />
+      <Label id="label-small" alignment="CENTER" layoutX="283.0" layoutY="139.0" prefHeight="35.0" prefWidth="16.0" text="-">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label id="label-large" alignment="CENTER" layoutX="215.0" layoutY="14.0" prefHeight="46.0" prefWidth="155.0" text="Mérkőzés">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label id="label-small" fx:id="dOdds" alignment="CENTER" layoutX="248.0" layoutY="209.0" prefHeight="36.0" prefWidth="89.0" text="do">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <RadioButton fx:id="radiobutton1" layoutX="135.0" layoutY="252.0" mnemonicParsing="false" onAction="#katt1" />
+      <RadioButton fx:id="radiobutton2" layoutX="285.0" layoutY="252.0" mnemonicParsing="false" onAction="#katt2" />
+      <RadioButton fx:id="radiobutton3" layoutX="445.0" layoutY="252.0" mnemonicParsing="false" onAction="#katt3" />
+   </children>
+</AnchorPane>

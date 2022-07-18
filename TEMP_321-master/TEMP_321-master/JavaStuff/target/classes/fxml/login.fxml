@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="pane" prefHeight="376.0" prefWidth="493.0" styleClass="pane" stylesheets="@styles/styles.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hu.unideb.inf.FXMLController">
+    <children>
+        <Label fx:id="label" layoutX="126" layoutY="120" minHeight="16" minWidth="69" />
+      <Label id="label-small" layoutX="103.0" layoutY="141.0" stylesheets="@styles/styles.css" text="Név" />
+      <Label id="label-small" layoutX="105.0" layoutY="179.0" stylesheets="@styles/styles.css" text="Jelszó" />
+      <TextField fx:id="userField" layoutX="172.0" layoutY="137.0" promptText="Username" />
+      <Button id="menu-button" fx:id="loginButton" layoutX="283.0" layoutY="269.0" mnemonicParsing="false" onAction="#validateLogin" stylesheets="@styles/styles.css" text="Login" />
+      <PasswordField fx:id="passField" layoutX="172.0" layoutY="176.0" promptText="Password" />
+      <Button id="menu-button" fx:id="closeButton" layoutX="405.0" layoutY="14.0" mnemonicParsing="false" onAction="#close" stylesheets="@styles/styles.css" text="Close" />
+      <Label fx:id="invalidLabel" alignment="CENTER" layoutX="23.0" layoutY="329.0" prefHeight="20.0" prefWidth="450.0" />
+      <Button id="menu-button" layoutX="113.0" layoutY="269.0" mnemonicParsing="false" onAction="#createAccount" stylesheets="@styles/styles.css" text="Regisztráció" />
+      <Label id="label-large" alignment="CENTER" layoutX="130.0" layoutY="40.0" prefHeight="44.0" prefWidth="221.0" stylesheets="@styles/styles.css" text="Bejelentkezés">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

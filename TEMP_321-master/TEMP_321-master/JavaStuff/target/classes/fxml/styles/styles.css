@@ -1,0 +1,59 @@
+#menu-button {
+    -fx-font-weight: bold;
+    -fx-background-color:#262626;
+    -fx-text-fill: #ffffff;
+    -fx-font-family: Candara;
+    -fx-font-size: 18px;
+    -fx-background-radius: 0;
+}
+
+#help-button {
+    -fx-font-weight: bold;
+    -fx-background-color:#ffffff;
+    -fx-text-fill: #262626;
+    -fx-font-family: Candara;
+    -fx-font-size: 18px;
+    -fx-background-radius: 0;
+}
+
+#menu-button:hover {
+	-fx-background-color:#4f4f4f;
+}
+#menu-button:active {
+	-fx-background-color:#4f4f4f;
+}
+
+
+
+#pane {
+    -fx-background-color: #2f2f2f;
+}
+
+#label-large {
+    -fx-font-family: Candara;
+    -fx-font-size: 32px;
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #2f2f2f;
+}
+
+#label-medium {
+    -fx-font-family: Candara;
+    -fx-font-size: 24px;
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #2f2f2f;
+}
+
+#label-small {
+    -fx-font-family: Candara;
+    -fx-font-size: 16px;
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #2f2f2f;
+}
+
+.label{
+    -fx-font-family: Candara;
+    -fx-font-size: 16px;
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #2f2f2f;
+}
+

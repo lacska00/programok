@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="pane" prefHeight="376.0" prefWidth="402.0" stylesheets="@styles/styles.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hu.unideb.inf.registerController">
+    <children>
+        <Label id="label-large" alignment="CENTER" layoutX="101.0" layoutY="24.0" prefHeight="47.0" prefWidth="188.0" text="Regisztráció">
+            <font>
+                <Font name="System Bold Italic" size="24.0" />
+            </font>
+        </Label>
+        <Label layoutX="76.0" layoutY="102.0" text="Felhasználó név:" textAlignment="RIGHT" />
+        <Label layoutX="118.0" layoutY="147.0" text="Teljes név:" textAlignment="RIGHT" />
+        <Label layoutX="143.0" layoutY="191.0" text="Jelszó:" textAlignment="RIGHT" />
+        <Button id="menu-button" fx:id="regButton" layoutX="244.0" layoutY="314.0" mnemonicParsing="false" onAction="#registerButtonAction" text="Regisztrálás" />
+        <TextField fx:id="accountName" layoutX="209.0" layoutY="99.0" promptText="Felhasználó név" />
+        <TextField fx:id="fullName" layoutX="209.0" layoutY="144.0" promptText="Teljes név" />
+        <PasswordField fx:id="passWord" layoutX="209.0" layoutY="188.0" promptText="Jelszó" />
+      <PasswordField fx:id="passWordVerify" layoutX="209.0" layoutY="232.0" promptText="Jelszó megerősítése" />
+      <Label layoutX="48.0" layoutY="235.0" text="Jelszó megerősítése:" textAlignment="RIGHT" />
+      <Label fx:id="message" alignment="CENTER" layoutX="70.0" layoutY="269.0" prefHeight="25.0" prefWidth="284.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Button id="menu-button" layoutX="52.0" layoutY="314.0" mnemonicParsing="false" onAction="#backToLogin" text="Vissza" />
+    </children>
+</AnchorPane>
