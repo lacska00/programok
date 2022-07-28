@@ -1,0 +1,102 @@
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\MainWindow.baml
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\MainWindow.g.cs
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\App.g.cs
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.g.resources
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.exe
+c:\users\kacsa\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.pdb
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server.exe
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server.pdb
+C:\munka\C#\2010_11\MessageSend\Server\Server\bin\Debug\Server.exe
+C:\munka\C#\2010_11\MessageSend\Server\Server\bin\Debug\Server.pdb
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\MainWindow.baml
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\MainWindow.g.cs
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\App.g.cs
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server.g.resources
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\munka\C#\2010_11\MessageSend\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server.exe
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server.pdb
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\bin\Debug\Server.exe
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\bin\Debug\Server.pdb
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\MainWindow.baml
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\MainWindow.g.cs
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\App.g.cs
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server.g.resources
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+c:\munka\C#\2010_11\Message_belepTilt\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.exe
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.pdb
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\bin\Debug\Server.exe
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\bin\Debug\Server.pdb
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\MainWindow.baml
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\MainWindow.g.cs
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\App.g.cs
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.g.resources
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+c:\munka\C#\2010_11\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\bin\Debug\Server.exe
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\bin\Debug\Server.pdb
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\MainWindow.baml
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\MainWindow.g.cs
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\App.g.cs
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.g.resources
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.exe
+G:\PhD 8.félév\C#\MessageSend\Honlaprol\Server\Server\obj\x86\Debug\Server.pdb
+G:\beadandó 2-es\ment\Server\Server\bin\Debug\Server.exe.config
+G:\beadandó 2-es\ment\Server\Server\bin\Debug\Server.exe
+G:\beadandó 2-es\ment\Server\Server\bin\Debug\Server.pdb
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\Server.csproj.AssemblyReference.cache
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\Server.csproj.SuggestedBindingRedirects.cache
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\MainWindow.baml
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\MainWindow.g.cs
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\App.g.cs
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\Server.g.resources
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\Server.exe
+G:\beadandó 2-es\ment\Server\Server\obj\x86\Debug\Server.pdb
+G:\vegleges\Server\Server\bin\Debug\Server.exe.config
+G:\vegleges\Server\Server\bin\Debug\Server.exe
+G:\vegleges\Server\Server\bin\Debug\Server.pdb
+G:\vegleges\Server\Server\obj\x86\Debug\Server.csproj.AssemblyReference.cache
+G:\vegleges\Server\Server\obj\x86\Debug\Server.csproj.SuggestedBindingRedirects.cache
+G:\vegleges\Server\Server\obj\x86\Debug\MainWindow.baml
+G:\vegleges\Server\Server\obj\x86\Debug\MainWindow.g.cs
+G:\vegleges\Server\Server\obj\x86\Debug\App.g.cs
+G:\vegleges\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+G:\vegleges\Server\Server\obj\x86\Debug\Server.g.resources
+G:\vegleges\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+G:\vegleges\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+G:\vegleges\Server\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+G:\vegleges\Server\Server\obj\x86\Debug\Server.exe
+G:\vegleges\Server\Server\obj\x86\Debug\Server.pdb
+E:\vegleges\Server\Server\bin\Debug\Server.exe.config
+E:\vegleges\Server\Server\bin\Debug\Server.exe
+E:\vegleges\Server\Server\bin\Debug\Server.pdb
+E:\vegleges\Server\Server\obj\x86\Debug\Server.csproj.AssemblyReference.cache
+E:\vegleges\Server\Server\obj\x86\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\vegleges\Server\Server\obj\x86\Debug\MainWindow.baml
+E:\vegleges\Server\Server\obj\x86\Debug\MainWindow.g.cs
+E:\vegleges\Server\Server\obj\x86\Debug\App.g.cs
+E:\vegleges\Server\Server\obj\x86\Debug\Server_MarkupCompile.cache
+E:\vegleges\Server\Server\obj\x86\Debug\Server.g.resources
+E:\vegleges\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+E:\vegleges\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+E:\vegleges\Server\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+E:\vegleges\Server\Server\obj\x86\Debug\Server.exe
+E:\vegleges\Server\Server\obj\x86\Debug\Server.pdb
